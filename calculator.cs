@@ -28,7 +28,7 @@ addition
         }
         else
         {
-            Console.WriteLine("Error: Cannot divide by zero.");
+            Console.WriteLine("Errorr: Cannot divide by zero.");
         Console.WriteLine($"Product: {a * b}");
 multiplication
 
