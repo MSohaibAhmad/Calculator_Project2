@@ -13,6 +13,7 @@ class Program
         Console.Write("Enter second number: ");
         int b = Convert.ToInt32(Console.ReadLine());
 
+ division
         if (b != 0)
         {
             Console.WriteLine($"Quotient: {a / (double)b}");
@@ -20,5 +21,7 @@ class Program
         else
         {
             Console.WriteLine("Error: Cannot divide by zero.");
+        Console.WriteLine($"Product: {a * b}");
+multiplication
     }
 }
